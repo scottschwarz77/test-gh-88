@@ -6,5 +6,5 @@ Testingw
 
 
 
-![](.testing1/Github2.png)
+![](testing1/Github2.png)
 
