@@ -2,9 +2,5 @@
 
 Testingw
 
-
-{% include "includefile.md" %}
-
-
-![](testing1/GitHub2.png)
+![](.gitbook/assets/github2.png)
 
