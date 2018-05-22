@@ -3,7 +3,7 @@
 Testingw
 
 
-{% include "./includefile.md" %}
+{% include "includefile.md" %}
 
 
 ![](testing1/GitHub2.png)
